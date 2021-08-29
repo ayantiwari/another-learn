@@ -1,4 +1,9 @@
 first2
+<<<<<<< HEAD
+window
+anish tiwarig
+=======
 anish
 tiwari
 linux
+>>>>>>> 577462e256d5a08096177e4698f78a9f6f44ffbb
